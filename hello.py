@@ -6,4 +6,11 @@ def hello():
     print("hello world")
 hello()
 
-#
+
+#파라미터
+def hello2(name):
+    print("hello " + name)
+    print("I'm best")
+    print("welcome to my victoryWorld")
+
+hello2('여러분')
